@@ -20,3 +20,8 @@ s3fs
 gcsfs
 google-cloud-storage
 termcolor
+
+fastapi
+datetime
+pytz
+uvicorn
